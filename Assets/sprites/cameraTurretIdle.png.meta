@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 35c144e0f66044eaab5b5af0b806fd40
+timeCreated: 1442322971
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cameraTurretIdle_0
+    21300002: cameraTurretIdle_1
+    21300004: cameraTurretIdle_2
+    21300006: cameraTurretIdle_3
+    21300008: cameraTurretIdle_4
+    21300010: cameraTurretIdle_5
+    21300012: cameraTurretIdle_6
+    21300014: cameraTurretIdle_7
+    21300016: cameraTurretIdle_8
+    21300018: cameraTurretIdle_9
+    21300020: cameraTurretIdle_10
+    21300022: cameraTurretIdle_11
+    21300024: cameraTurretIdle_12
+    21300026: cameraTurretIdle_13
+    21300028: cameraTurretIdle_14
+    21300030: cameraTurretIdle_15
+    21300032: cameraTurretIdle_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cameraTurretIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 7
+        height: 15
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cameraTurretIdle_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 41
+        width: 7
+        height: 23
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cameraTurretIdle_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 33
+        width: 7
+        height: 31
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cameraTurretIdle_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 26
+        width: 7
+        height: 38
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cameraTurretIdle_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: .879999995, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cameraTurretIdle_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: .879999995, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cameraTurretIdle_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: .879999995, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cameraTurretIdle_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: .879999995, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cameraTurretIdle_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: .879999995, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cameraTurretIdle_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: .879999995, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cameraTurretIdle_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: .879999995, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cameraTurretIdle_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: .879999995, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cameraTurretIdle_12
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: .879999995, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cameraTurretIdle_13
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: .879999995, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cameraTurretIdle_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: .879999995, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cameraTurretIdle_15
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: .879999995, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cameraTurretIdle_16
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: .879999995, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

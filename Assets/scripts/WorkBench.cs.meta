@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 41949a976c06b4382b3bf89422ab9275
+timeCreated: 1443791006
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - toyObject: {instanceID: 0}
+  - ps: {instanceID: 0}
+  - toy: {fileID: 101222, guid: 0ac31e64f51124b389d1fd4458af6edb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
